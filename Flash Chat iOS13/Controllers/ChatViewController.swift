@@ -20,7 +20,7 @@ class ChatViewController: UIViewController {
     }
     
     func setupNavigationBar() {
-        title = "⚡️FlashChat"
+        title = K.appName
         navigationItem.hidesBackButton = true
     }
     
